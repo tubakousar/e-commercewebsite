@@ -105,9 +105,6 @@ Deployment
 
 You can deploy the application using services like:
 
-Vercel
-
-Netlify
 
 Heroku
 
