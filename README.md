@@ -141,4 +141,4 @@ POST /api/auth/login: Authenticate user
 
 POST /api/cart: Add item to cart
 
-POST /api/orders: Place an order
+POST /api/orders: Place an order.
