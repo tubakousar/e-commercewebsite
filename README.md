@@ -129,3 +129,16 @@ Advanced filtering and search functionality for products.
 Integration with email notifications for orders.
 
 Adding reviews and ratings for products.
+Backend API Integration
+
+Use Axios for making API requests.
+
+Example API endpoints:
+
+GET /api/products: Fetch all products
+
+POST /api/auth/login: Authenticate user
+
+POST /api/cart: Add item to cart
+
+POST /api/orders: Place an order
