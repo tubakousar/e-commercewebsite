@@ -142,3 +142,9 @@ POST /api/auth/login: Authenticate user
 POST /api/cart: Add item to cart
 
 POST /api/orders: Place an order.
+
+User-Friendly Interface: Clean and intuitive design for smooth navigation.
+Responsive Design: Fully optimized for all devices, from desktops to mobiles.
+Dynamic Product Display: Allows easy browsing and categorization of products.
+Secure Checkout Process: Includes features like cart management and secure payment gateways.
+Interactive Features: Real-time search, filters, and recommendations for a personalized experience.
