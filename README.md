@@ -142,6 +142,10 @@ POST /api/auth/login: Authenticate user
 POST /api/cart: Add item to cart
 
 POST /api/orders: Place an order.
+1. Home Page:
+Featured products ka slider (top-selling aur new arrivals show karne ke liye).
+Categories ka clear display (e.g., Electronics, Clothing, Home Decor, etc.).
+Discount offers aur promotional banners.
 
 User-Friendly Interface: Clean and intuitive design for smooth navigation.
 Responsive Design: Fully optimized for all devices, from desktops to mobiles.
