@@ -32,62 +32,6 @@ Ensures only logged-in users can access certain features like placing orders.
 
 Mobile-friendly layout to ensure usability across devices.
 
-6. Admin Panel (Optional)
-
-Admins can add, update, or delete products.
-
-View order details and manage users.
-
-Installation
-
-Prerequisites
-
-Make sure you have the following installed:
-
-Node.js
-
-npm or Yarn
-
-Steps
-
-Clone the repository:
-
-git clone <repository-url>
-
-Navigate to the project directory:
-
-cd ecommerce-website
-
-Install dependencies:
-
-npm install
-# or
-yarn install
-
-Start the development server:
-
-npm start
-# or
-yarn start
-
-The application will be accessible at http://localhost:3000/.
-
-Project Structure
-
-Ecommerce-Website/
-├── public/
-├── src/
-│   ├── components/        # Reusable UI components
-│   ├── pages/             # Main application pages (e.g., Home, Cart, Checkout)
-│   ├── context/           # Context API for state management
-│   ├── utils/             # Helper functions
-│   ├── App.js             # Main application entry point
-│   └── index.js           # React DOM rendering
-├── .env                   # Environment variables
-├── package.json           # Project dependencies
-└── README.md              # Project documentation
-
-Technologies Used
 
 React.js: Frontend library for building UI.
 
@@ -142,10 +86,6 @@ POST /api/auth/login: Authenticate user
 POST /api/cart: Add item to cart
 
 POST /api/orders: Place an order.
-1. Home Page:
-Featured products ka slider (top-selling aur new arrivals show karne ke liye).
-Categories ka clear display (e.g., Electronics, Clothing, Home Decor, etc.).
-Discount offers aur promotional banners.
 
 User-Friendly Interface: Clean and intuitive design for smooth navigation.
 Responsive Design: Fully optimized for all devices, from desktops to mobiles.
