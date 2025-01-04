@@ -41,10 +41,6 @@ Context API: For state management.
 
 CSS/SCSS: Styling the application.
 
-Node.js & Express.js (Optional): Backend for APIs.
-
-MongoDB (Optional): Database for storing products, orders, and user data.
-
 Deployment
 
 You can deploy the application using services like:
@@ -54,8 +50,6 @@ Heroku
 
 For deployment, make sure to build the application:
 
-npm run build
-# or
 yarn build
 
 Then, upload the contents of the build/ folder to your hosting service.
