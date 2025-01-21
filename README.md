@@ -22,13 +22,8 @@ Form to capture user details like name, address, and payment information.
 
 Summary of cart items for review before finalizing the purchase.
 
-4. User Authentication
 
-Login and signup functionality using a secure backend.
-
-Ensures only logged-in users can access certain features like placing orders.
-
-5. Responsive Design
+4. Responsive Design
 
 Mobile-friendly layout to ensure usability across devices.
 
@@ -39,14 +34,12 @@ React Router: For navigation between pages.
 
 Context API: For state management.
 
-CSS/SCSS: Styling the application.
+
 
 Deployment
 
 You can deploy the application using services like:
 
-
-Heroku
 
 For deployment, make sure to build the application:
 
@@ -54,20 +47,10 @@ yarn build
 
 Then, upload the contents of the build/ folder to your hosting service.
 
-Screenshots
-
-Add relevant screenshots of your website to showcase its design and functionality.
-
-Future Enhancements
-
-Integration with a payment gateway like Stripe or PayPal.
 
 Advanced filtering and search functionality for products.
 
-Integration with email notifications for orders.
 
-Adding reviews and ratings for products.
-Backend API Integration
 
 Use Axios for making API requests.
 
@@ -75,7 +58,6 @@ Example API endpoints:
 
 GET /api/products: Fetch all products
 
-POST /api/auth/login: Authenticate user
 
 
 User-Friendly Interface: Clean and intuitive design for smooth navigation.
