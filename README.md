@@ -56,9 +56,7 @@ Use Axios for making API requests.
 
 Example API endpoints:
 
-GET /api/products: Fetch all products
-
-
+GET /api/products: Fetch all products.
 
 User-Friendly Interface: Clean and intuitive design for smooth navigation.
 Responsive Design: Fully optimized for all devices, from desktops to mobiles.

@@ -62,7 +62,7 @@ function AppCart() {
         onClose={() => setCartdraweropen(false)}
         title="Your Cart"
         contentWrapperStyle={{ width: 550 }}
-      >
+         >
         <Table
           pagination={false}
           columns={[

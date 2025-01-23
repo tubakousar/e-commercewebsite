@@ -1,8 +1,9 @@
-import { HomeFilled } from "@ant-design/icons";
+import { HomeFilled, MenuOutlined } from "@ant-design/icons";
 import { Menu, Typography } from "antd";
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import AppCart from "./AppCart";
+
 
 function AppHeader() {
   const navigate = useNavigate();
@@ -14,10 +15,12 @@ function AppHeader() {
   return (
     <div className="appheader">
       <Menu
+        mode = "horizontal"
         className="nave"
         onClick={onMenuClick}
-        mode="horizontal"
+        
         items={[
+          
           {
             label: <HomeFilled />,
             key: "",
@@ -78,5 +81,6 @@ function AppHeader() {
     </div>
   );
 }
+
 
 export default AppHeader;
