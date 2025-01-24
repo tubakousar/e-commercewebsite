@@ -33,9 +33,6 @@ React.js: Frontend library for building UI.
 React Router: For navigation between pages.
 
 Context API: For state management.
-
-
-
 Deployment
 
 You can deploy the application using services like:
@@ -49,8 +46,6 @@ Then, upload the contents of the build/ folder to your hosting service.
 
 
 Advanced filtering and search functionality for products.
-
-
 
 Use Axios for making API requests.
 
