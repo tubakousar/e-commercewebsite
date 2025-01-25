@@ -1,10 +1,10 @@
-E-commerce Website
+E-commerce Website:
 
 This project is a fully functional e-commerce website built using React.js. It includes features such as product listing, a shopping cart, checkout functionality, and user authentication.
 
-Features
+Features:
 
-1. Product Listing
+1. Product Listing:
 
 Displays a list of products fetched from a backend API or a mock JSON file.
 

@@ -101,7 +101,7 @@ function AppCart() {
                 return (
                   <InputNumber
                     min={1}
-                    defaultValue={quantity || 1}
+                    defaultValue ={quantity || 1}
                     onChange={(value) => handlequantitychange(value, record)}
                   />
                 );
