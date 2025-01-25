@@ -10,13 +10,13 @@ Displays a list of products fetched from a backend API or a mock JSON file.
 
 Includes filtering and sorting options for user convenience.
 
-2. Shopping Cart
+2. Shopping Cart:
 
 Users can add, remove, or update product quantities in the cart.
 
 Cart dynamically calculates the total price based on selected products.
 
-3. Checkout
+3. Checkout:
 
 Form to capture user details like name, address, and payment information.
 
