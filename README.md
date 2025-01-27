@@ -23,7 +23,7 @@ Form to capture user details like name, address, and payment information.
 Summary of cart items for review before finalizing the purchase.
 
 
-4. Responsive Design
+4. Responsive Design:
 
 Mobile-friendly layout to ensure usability across devices.
 
@@ -33,19 +33,7 @@ React.js: Frontend library for building UI.
 React Router: For navigation between pages.
 
 Context API: For state management.
-Deployment
 
-You can deploy the application using services like:
-
-
-For deployment, make sure to build the application:
-
-yarn build
-
-Then, upload the contents of the build/ folder to your hosting service.
-
-
-Advanced filtering and search functionality for products.
 
 Use Axios for making API requests.
 
